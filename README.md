@@ -1,4 +1,4 @@
-# Majifix-mobile-dashboard
+# Majifix-mobile-dashboard (WIP)
  This is an application designed for managers and supervisors to get a quick summary service requests from [open311-api](https://github.com/CodeTanzania/open311-api)
 ## Development
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
