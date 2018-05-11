@@ -1,7 +1,7 @@
 import { map, round } from 'lodash';
 import * as types from './actionTypes';
-import { endLoading, endRefreshing } from './shared';
-import { signedOut } from './auth';
+import { endLoading, endRefreshing } from './shared.actions';
+import { signedOut } from './auth.actions';
 import isTokenExpired from '../util/auth';
 
 /**
